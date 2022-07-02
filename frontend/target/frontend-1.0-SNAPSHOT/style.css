@@ -1,0 +1,27 @@
+.container{
+    padding: 100px;
+    justify-content: center;
+    background-color: lightblue;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+.neg{
+    margin: 25px;
+}
+.inp{
+    padding-bottom: 25px;
+    padding-left: 25px;
+    width: 100px;
+    height: 40px;
+    margin: 25px;
+    font-size: 25px;
+}
+.but{
+    padding-bottom: 25px;
+    padding-left: 25px;
+    margin: 25px;
+    width: 100px;
+    height: 40px;
+}
+
